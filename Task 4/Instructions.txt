@@ -1,0 +1,5 @@
+STEP 1: Login or create your AWS Account
+STEP 2: After you’ve logged in or created an account you can launch your EC2 instance by clicking on the ‘Launch Instance’ icon
+STEP 3: You can then configure your instance by setting up Security group and storage. You complete the configuration by clicking on ‘Launch Instances’. 
+STEP 4: Now you can connect your EC2 instance to the console. You can easily do this by clicking on the EC2 instance you’ve created and selecting ‘EC2 Instance Connect’.
+STEP 5: You should then terminate your instance. Amazon EC2 IS free to start but we should always remember that AWS works on pay as you go pricing so it’s best practice to terminate instances to prevent additional charges.
