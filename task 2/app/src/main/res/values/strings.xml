@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Banking</string>
+    <string name="Welcome_text">Hi welcome to My Banking</string>
+    <string name="Begin_Transaction">Begin Transaction</string>
+    <string name="Choose_the_sender">Choose the sender</string>
+    <string name="text_made_by">Made by Lalit Kumar Tyagi</string>
+</resources>
